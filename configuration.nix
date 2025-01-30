@@ -102,6 +102,10 @@
   git
   google-chrome
   gh
+  vlc
+  vscode
+  python314
+  telegram-desktop
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
